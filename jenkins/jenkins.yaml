@@ -1,5 +1,5 @@
 jenkins:
-	systemMessage: Welcome to allen devops-CI server.
+  systemMessage: Welcome to allen devops-CI server.
   agentProtocols:
   - "JNLP4-connect"
   - "Ping"
